@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 
+    Mozhii RAG Data Platform Logo
+    A modern, minimal logo representing data flow and Tamil AI
+    -->
+    
+    <!-- Outer circle - represents the ecosystem -->
+    <circle cx="60" cy="60" r="54" stroke="#6366F1" stroke-width="3" fill="none"/>
+    
+    <!-- Inner geometric pattern - represents data structure -->
+    <path 
+        d="M60 20 L95 45 L95 85 L60 110 L25 85 L25 45 Z" 
+        stroke="#8B5CF6" 
+        stroke-width="2" 
+        fill="none"
+    />
+    
+    <!-- Cross pattern - represents the platform's four directions -->
+    <line x1="60" y1="30" x2="60" y2="90" stroke="#6366F1" stroke-width="2"/>
+    <line x1="30" y1="60" x2="90" y2="60" stroke="#6366F1" stroke-width="2"/>
+    
+    <!-- Central node - represents the AI core -->
+    <circle cx="60" cy="60" r="12" fill="#6366F1"/>
+    
+    <!-- Corner nodes - represent data stages -->
+    <circle cx="60" cy="30" r="6" fill="#10B981"/>
+    <circle cx="85" cy="50" r="6" fill="#F59E0B"/>
+    <circle cx="85" cy="70" r="6" fill="#8B5CF6"/>
+    <circle cx="60" cy="90" r="6" fill="#EF4444"/>
+    <circle cx="35" cy="70" r="6" fill="#3B82F6"/>
+    <circle cx="35" cy="50" r="6" fill="#14B8A6"/>
+    
+    <!-- Tamil "ழ" inspired element in center -->
+    <text 
+        x="60" 
+        y="66" 
+        font-family="Noto Sans Tamil, sans-serif" 
+        font-size="16" 
+        fill="white" 
+        text-anchor="middle"
+        font-weight="bold"
+    >ம</text>
+</svg>
